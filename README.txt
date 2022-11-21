@@ -1,0 +1,1 @@
+This is a mock divination reading based on Ana Cortez's book "The Playing Card Oracles"
